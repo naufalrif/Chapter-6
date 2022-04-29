@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Chapter6">
         <activity
+            android:name=".receiver.MainReceiver"
+            android:exported="false" />
+        <activity
+            android:name=".service.MainService"
+            android:exported="false" />
+        <activity
+            android:name=".coroutines.MainCoroutines"
+            android:exported="false" />
+        <activity
+            android:name=".kedua.MainAsyncTask"
+            android:exported="false" />
+        <activity
             android:name=".HitungBMI"
             android:exported="true">
             <intent-filter>
@@ -20,14 +32,12 @@
         </activity>
         <activity
             android:name=".HitungUmur"
-            android:exported="true">
-
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true" />
 
-        </activity>
+        <service android:name=".service.ServicePlayer" />
     </application>
 
 </manifest>

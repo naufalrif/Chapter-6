@@ -6,6 +6,9 @@
         <entry key="..\:/Users/Naufal/AndroidStudioProjects/Chapter6/app/src/main/res/layout/activity_hitung_bmi.xml" value="0.26856884057971014" />
         <entry key="..\:/Users/Naufal/AndroidStudioProjects/Chapter6/app/src/main/res/layout/activity_hitung_umur.xml" value="0.1" />
         <entry key="..\:/Users/Naufal/AndroidStudioProjects/Chapter6/app/src/main/res/layout/activity_main.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/Naufal/AndroidStudioProjects/Chapter6/app/src/main/res/layout/activity_main_async_task.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/Naufal/AndroidStudioProjects/Chapter6/app/src/main/res/layout/activity_main_coroutines.xml" value="0.2572463768115942" />
+        <entry key="..\:/Users/Naufal/AndroidStudioProjects/Chapter6/app/src/main/res/layout/activity_main_service.xml" value="0.24320652173913043" />
       </map>
     </option>
   </component>
